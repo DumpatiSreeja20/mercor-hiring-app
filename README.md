@@ -100,8 +100,3 @@ const weights = { skill: 0.5, exp: 0.3, salary: 0.2 };
 PRs and suggestions welcome! 🙌
 
 ---
-
-## 📄 License
-
-MIT © 2025 Varun Kumar
-
